@@ -1,0 +1,4 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="21%" android:insetTop="21%" android:insetRight="21%" android:insetBottom="21%">
+    <bitmap android:src="@drawable/brand_logo" android:gravity="fill" />
+</inset>
